@@ -1,0 +1,16 @@
+header{
+	background: #141034
+}
+
+.cabecalhop{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	background: #141034
+}
+
+nav{
+	position: absolute;
+	top: 110px;
+	right: 0;
+
